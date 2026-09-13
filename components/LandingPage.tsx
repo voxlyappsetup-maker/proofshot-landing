@@ -197,10 +197,10 @@ export default function LandingPage() {
       <footer className="border-t border-slate-200 px-5 py-8 text-center text-sm text-slate-500 sm:px-6">
         Early idea test — not a finished product.{" "}
         <a
-          href="mailto:hello@proofshot.app"
+          href="mailto:hello@proofshot.cc"
           className="font-medium text-teal underline-offset-2 hover:underline"
         >
-          hello@proofshot.app
+          hello@proofshot.cc
         </a>
       </footer>
     </div>
